@@ -1,5 +1,7 @@
 import React from "react";
 
-function Search() {}
+function Search() {
+  return <button type="button">Search</button>;
+}
 
 export default Search;
